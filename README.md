@@ -34,7 +34,7 @@
 
 - ✉️ kngrps@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafaelkng)
-- 🟣 [Twitch] (https://www.twitch.tv/kngrps)
+- 🟣 [Twitch](https://www.twitch.tv/kngrps)
 
 ---
 
