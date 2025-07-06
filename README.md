@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Olá! Eu sou o Fael</h1>
 
-<p align="center">🎮 Gamer | 🧪 QA | 💻 Estudante de Ciência da Computação | Futuro Dev</p>
+<p align="center">🎮 Gamer | 🧪 QA | 💻 Estudante de Ciência da Computação | 🤞Futuro Dev</p>
 
 ---
 
@@ -34,7 +34,7 @@
 
 - ✉️ kngrps@outlook.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rafaelkng)
-- 📂 Aqui no GitHub mesmo — dá uma olhada nos repositórios!
+- 🟣 [Twitch] (https://www.twitch.tv/kngrps)
 
 ---
 
