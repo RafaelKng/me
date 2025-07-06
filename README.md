@@ -1,5 +1,5 @@
 <!-- Banner opcional -->
-<!-- ![Banner](https://your-image-link-here.com/banner.png) -->
+<!-- ![Banner](https://i.pinimg.com/736x/e2/87/cd/e287cd8bcb60e768653f4f11b056d9d9.jpg) -->
 
 <h1 align="center">👋 Olá! Eu sou o Fael</h1>
 
