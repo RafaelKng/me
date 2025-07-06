@@ -30,15 +30,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ## 📫 Contato
 
 - ✉️ kngrps@outlook.com
